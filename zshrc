@@ -38,3 +38,13 @@ export LANG=en_US.UTF-8
 export LC_ALL=en_US.UTF-8
 export BUNDLER_EDITOR="'/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl' -a"
 export BUNDLER_EDITOR="'/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl' -a"
+
+# tabtab source for serverless package
+# uninstall by removing these lines or running `tabtab uninstall serverless`
+[[ -f /Users/gracecheung/code/gracec0309/~/.nvm/versions/node/v12.12.0/lib/node_modules/serverless/node_modules/tabtab/.completions/serverless.zsh ]] && . /Users/gracecheung/code/gracec0309/~/.nvm/versions/node/v12.12.0/lib/node_modules/serverless/node_modules/tabtab/.completions/serverless.zsh
+# tabtab source for sls package
+# uninstall by removing these lines or running `tabtab uninstall sls`
+[[ -f /Users/gracecheung/code/gracec0309/~/.nvm/versions/node/v12.12.0/lib/node_modules/serverless/node_modules/tabtab/.completions/sls.zsh ]] && . /Users/gracecheung/code/gracec0309/~/.nvm/versions/node/v12.12.0/lib/node_modules/serverless/node_modules/tabtab/.completions/sls.zsh
+# tabtab source for slss package
+# uninstall by removing these lines or running `tabtab uninstall slss`
+[[ -f /Users/gracecheung/code/gracec0309/~/.nvm/versions/node/v12.12.0/lib/node_modules/serverless/node_modules/tabtab/.completions/slss.zsh ]] && . /Users/gracecheung/code/gracec0309/~/.nvm/versions/node/v12.12.0/lib/node_modules/serverless/node_modules/tabtab/.completions/slss.zshexport BUNDLER_EDITOR="'/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl' -a"
