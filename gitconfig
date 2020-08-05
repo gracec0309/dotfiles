@@ -47,8 +47,8 @@
 [branch "master"]
   mergeoptions = --no-edit
 [user]
-	email = cgrace0309@gmail.com
-	name = grace
+	email = cgrace0309@gmail.cm
+	name = grace cheung
 [commit]
 	template = /Users/gracecheung/.gitmessage.txt
 [filter "lfs"]
