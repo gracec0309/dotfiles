@@ -5,20 +5,28 @@
 	],
 	"installed_packages":
 	[
+		"3024 Color Scheme",
 		"A File Icon",
 		"AdvancedNewFile",
 		"All Autocomplete",
 		"Babel",
+		"BracketHighlighter",
+		"Dataiku",
+		"DeleteBlankLines",
 		"Emmet",
 		"ERB Snippets",
 		"ESLint",
+		"FileIcons",
 		"Git",
+		"HTML-CSS-JS Prettify",
+		"Javascript Beautify",
 		"JsPrettier",
 		"Latest Migration",
 		"MagicPython",
 		"Package Control",
 		"SCSS",
 		"SublimeLinter",
+		"SublimeLinter-jshint",
 		"SublimeLinter-rubocop"
 	]
 }

@@ -47,5 +47,12 @@
 [branch "master"]
   mergeoptions = --no-edit
 [user]
-	email = grace@unrival.gg
-	name = Grace Cheung
+	email = cgrace0309@gmail.com
+	name = grace
+[commit]
+	template = /Users/gracecheung/.gitmessage.txt
+[filter "lfs"]
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
+	required = true
+	clean = git-lfs clean -- %f
